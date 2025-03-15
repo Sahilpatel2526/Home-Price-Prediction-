@@ -37,9 +37,3 @@ BuildingArea
 
 Encoded categorical variables (Method, SellerG, CouncilArea)
 
-Next Steps & Possible Improvements:
-
-Feature Engineering: Add new meaningful features like Price per Square Meter.
-Advanced Models: Try Random Forest, XGBoost, or Neural Networks for better accuracy.
-Hyperparameter Tuning: Optimize the model using GridSearchCV or RandomizedSearchCV.
-Data Visualization: Perform exploratory data analysis (EDA) using matplotlib and seaborn to understand trends better.
