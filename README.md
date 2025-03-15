@@ -22,14 +22,23 @@ Model evaluation is likely performed using metrics like R² score and Mean Absol
 The following features contribute to the prediction:
 
 Propertycount
+
 Distance
+
 Bedroom2
+
 Bathroom
+
 Car
+
 Landsize
+
 BuildingArea
+
 Encoded categorical variables (Method, SellerG, CouncilArea)
+
 Next Steps & Possible Improvements:
+
 Feature Engineering: Add new meaningful features like Price per Square Meter.
 Advanced Models: Try Random Forest, XGBoost, or Neural Networks for better accuracy.
 Hyperparameter Tuning: Optimize the model using GridSearchCV or RandomizedSearchCV.
